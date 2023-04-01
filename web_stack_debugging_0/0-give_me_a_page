@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# Restarting HTTPD
+sudo service apache2 restart
